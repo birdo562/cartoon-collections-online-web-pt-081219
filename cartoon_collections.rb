@@ -18,6 +18,7 @@ def long_planeteer_calls(calls)
 end
 
 def find_the_cheese(strings)
-  strings.inclued? do 
+  i=0
   cheese_types = ["cheddar", "gouda", "camembert"]
+  while
 end
